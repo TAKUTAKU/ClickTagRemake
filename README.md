@@ -4,13 +4,12 @@
 # 基本的な使い方
 #### ベータAPIを有効にしてください<br>
 　時計に「setting」という名前のアイテムを使用する<br>
- ID アイテムIDを追加 or 削除
- Data アイテムのデータ値を追加 or 削除
- Amount アイテム数を追加 or 削除
- Name 金床等でつけたアイテム名を追加 or 削除
+ ID アイテムIDを追加 or 削除<br>
+ Data アイテムのデータ値を追加 or 削除<br>
+ Amount アイテム数を追加 or 削除<br>
+ Name 金床等でつけたアイテム名を追加 or 削除<br>
  
-細かい使い方はYoutube
-https://www.youtube.com/watch?v=IEqRbZzCT9o
+細かい使い方はYoutube(https://youtu.be/IAN-Z7migV8)
 
 # ダウンロード
 
