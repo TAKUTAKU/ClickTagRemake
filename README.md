@@ -23,6 +23,6 @@ PC　右のReleaseから<br>
 
 ・0.0.1　Minecraft 1.19.51 Youtubeにて作成<br>
 ・0.1.1 version 1.20.10.24による修正<br>
-        importするmoduleを
-            server 1.3.0-beta => 1.4.0-beta
-            server-ui 1.1.0-beta => 1.2.0-beta
+        importするmoduleを<br>
+            server 1.3.0-beta => 1.4.0-beta<br>
+            server-ui 1.1.0-beta => 1.2.0-beta<br>
